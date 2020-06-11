@@ -1,9 +1,9 @@
 # MusicWithColor
 For iOS Developers: View all system colors that vary depending on the iOS trait environment. Check how each color looks in dark and regular modes. 
 
-Wallpaper by Kevin MacLeod
-Link: https://incompetech.filmmusic.io/song/4604-wallpaper
-License: http://creativecommons.org/licenses/by/4.0/
+Wallpaper by Kevin MacLeod \
+Link: https://incompetech.filmmusic.io/song/4604-wallpaper \
+License: http://creativecommons.org/licenses/by/4.0/ \
 
 <img src="GitHub-Images/ScreenShot.png" width="300">
 
@@ -12,7 +12,7 @@ License: http://creativecommons.org/licenses/by/4.0/
 - Web link to Human Interface Guidelines.
 
 *Example  (shown in Light and Dark modes)* \
-<img src="GitHub-Images/LightDark.png" width="600">
+<img src="GitHub-Images/ColorImages.png" width="500">
 
 **Technical Info:** \
 Xcode project written in Swift 5\
@@ -28,4 +28,4 @@ Requires Xcode 11
 Marcy Vernon [@MarcyVernon](https://twitter.com/MarcyVernon)
 
 **License:** \
-"Dark Mode Colors" is under the MIT license. See [LICENSE](/LICENSE) for more information.
+"Music With Color" is under the MIT license. See [LICENSE](/LICENSE) for more information.

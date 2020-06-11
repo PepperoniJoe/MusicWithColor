@@ -16,6 +16,8 @@
 		93233E522480CF1A00EE7C60 /* wallpaper.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 93233E512480CF1A00EE7C60 /* wallpaper.mp3 */; };
 		932382C4249197F300A4F43B /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 932382C3249197F300A4F43B /* LICENSE */; };
 		932382C82491984100A4F43B /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 932382C72491984100A4F43B /* README.md */; };
+		932382CA2491BD4F00A4F43B /* ColorImages.png in Resources */ = {isa = PBXBuildFile; fileRef = 932382C92491BD4F00A4F43B /* ColorImages.png */; };
+		932382CC2491C5D800A4F43B /* ScreenShot.png in Resources */ = {isa = PBXBuildFile; fileRef = 932382CB2491C5D800A4F43B /* ScreenShot.png */; };
 		939267C6249092A900D06461 /* AudioPlayerManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93233E4B2480B02800EE7C60 /* AudioPlayerManager.swift */; };
 		93C447542486EE66001FFE65 /* Ext-Notification.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93C447532486EE66001FFE65 /* Ext-Notification.swift */; };
 /* End PBXBuildFile section */
@@ -33,6 +35,8 @@
 		93233E512480CF1A00EE7C60 /* wallpaper.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = wallpaper.mp3; sourceTree = "<group>"; };
 		932382C3249197F300A4F43B /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		932382C72491984100A4F43B /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		932382C92491BD4F00A4F43B /* ColorImages.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ColorImages.png; sourceTree = "<group>"; };
+		932382CB2491C5D800A4F43B /* ScreenShot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ScreenShot.png; sourceTree = "<group>"; };
 		93C447532486EE66001FFE65 /* Ext-Notification.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Ext-Notification.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -109,6 +113,8 @@
 		932382C02491977C00A4F43B /* GitHub-Images */ = {
 			isa = PBXGroup;
 			children = (
+				932382CB2491C5D800A4F43B /* ScreenShot.png */,
+				932382C92491BD4F00A4F43B /* ColorImages.png */,
 			);
 			path = "GitHub-Images";
 			sourceTree = "<group>";
@@ -191,9 +197,11 @@
 				932382C4249197F300A4F43B /* LICENSE in Resources */,
 				93233E422480AFB100EE7C60 /* LaunchScreen.storyboard in Resources */,
 				93233E3F2480AFB100EE7C60 /* Assets.xcassets in Resources */,
+				932382CA2491BD4F00A4F43B /* ColorImages.png in Resources */,
 				932382C82491984100A4F43B /* README.md in Resources */,
 				93233E3D2480AFAF00EE7C60 /* Main.storyboard in Resources */,
 				93233E522480CF1A00EE7C60 /* wallpaper.mp3 in Resources */,
+				932382CC2491C5D800A4F43B /* ScreenShot.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
