@@ -14,7 +14,8 @@
 		93233E3F2480AFB100EE7C60 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 93233E3E2480AFB100EE7C60 /* Assets.xcassets */; };
 		93233E422480AFB100EE7C60 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 93233E402480AFB100EE7C60 /* LaunchScreen.storyboard */; };
 		93233E522480CF1A00EE7C60 /* wallpaper.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 93233E512480CF1A00EE7C60 /* wallpaper.mp3 */; };
-		939267BD24903E6400D06461 /* wallpaper2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 939267BC24903E6400D06461 /* wallpaper2.mp3 */; };
+		932382C4249197F300A4F43B /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 932382C3249197F300A4F43B /* LICENSE */; };
+		932382C82491984100A4F43B /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 932382C72491984100A4F43B /* README.md */; };
 		939267C6249092A900D06461 /* AudioPlayerManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93233E4B2480B02800EE7C60 /* AudioPlayerManager.swift */; };
 		93C447542486EE66001FFE65 /* Ext-Notification.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93C447532486EE66001FFE65 /* Ext-Notification.swift */; };
 /* End PBXBuildFile section */
@@ -30,7 +31,8 @@
 		93233E432480AFB100EE7C60 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		93233E4B2480B02800EE7C60 /* AudioPlayerManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioPlayerManager.swift; sourceTree = "<group>"; };
 		93233E512480CF1A00EE7C60 /* wallpaper.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = wallpaper.mp3; sourceTree = "<group>"; };
-		939267BC24903E6400D06461 /* wallpaper2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = wallpaper2.mp3; sourceTree = "<group>"; };
+		932382C3249197F300A4F43B /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		932382C72491984100A4F43B /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		93C447532486EE66001FFE65 /* Ext-Notification.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Ext-Notification.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -48,6 +50,9 @@
 		93233E292480AFAF00EE7C60 = {
 			isa = PBXGroup;
 			children = (
+				932382C72491984100A4F43B /* README.md */,
+				932382C3249197F300A4F43B /* LICENSE */,
+				932382C02491977C00A4F43B /* GitHub-Images */,
 				93233E342480AFAF00EE7C60 /* MusicWithColor */,
 				93233E332480AFAF00EE7C60 /* Products */,
 			);
@@ -101,11 +106,17 @@
 			path = Storyboards;
 			sourceTree = "<group>";
 		};
+		932382C02491977C00A4F43B /* GitHub-Images */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "GitHub-Images";
+			sourceTree = "<group>";
+		};
 		933A7A16248393710023AE84 /* Assets */ = {
 			isa = PBXGroup;
 			children = (
 				93233E512480CF1A00EE7C60 /* wallpaper.mp3 */,
-				939267BC24903E6400D06461 /* wallpaper2.mp3 */,
 				93233E3E2480AFB100EE7C60 /* Assets.xcassets */,
 			);
 			path = Assets;
@@ -177,9 +188,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				932382C4249197F300A4F43B /* LICENSE in Resources */,
 				93233E422480AFB100EE7C60 /* LaunchScreen.storyboard in Resources */,
 				93233E3F2480AFB100EE7C60 /* Assets.xcassets in Resources */,
-				939267BD24903E6400D06461 /* wallpaper2.mp3 in Resources */,
+				932382C82491984100A4F43B /* README.md in Resources */,
 				93233E3D2480AFAF00EE7C60 /* Main.storyboard in Resources */,
 				93233E522480CF1A00EE7C60 /* wallpaper.mp3 in Resources */,
 			);
