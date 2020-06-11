@@ -1,6 +1,9 @@
-# DarkModeColors
+# MusicWithColor
 For iOS Developers: View all system colors that vary depending on the iOS trait environment. Check how each color looks in dark and regular modes. 
 
+Wallpaper by Kevin MacLeod
+Link: https://incompetech.filmmusic.io/song/4604-wallpaper
+License: http://creativecommons.org/licenses/by/4.0/
 
 <img src="GitHub-Images/ScreenShot.png" width="300">
 
@@ -15,7 +18,7 @@ For iOS Developers: View all system colors that vary depending on the iOS trait 
 Xcode project written in Swift 5\
 Requires Xcode 11
 
-**Installations:**
+**Installation:**
 1. Open project in Xcode
 2. Go to project settings for the target and update the your signing information(signing and capabilities)
 3. Build and run the app in Xcode. 
