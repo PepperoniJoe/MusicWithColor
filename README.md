@@ -1,5 +1,5 @@
 # MusicWithColor
-App that plays music and displays colors. 
+App that plays music and displays randomly generated patterns and colors. 
 
 Wallpaper by Kevin MacLeod \
 Link: https://incompetech.filmmusic.io/song/4604-wallpaper \
