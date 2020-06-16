@@ -19,6 +19,7 @@
 		932382CA2491BD4F00A4F43B /* ColorImages.png in Resources */ = {isa = PBXBuildFile; fileRef = 932382C92491BD4F00A4F43B /* ColorImages.png */; };
 		932382CC2491C5D800A4F43B /* ScreenShot.png in Resources */ = {isa = PBXBuildFile; fileRef = 932382CB2491C5D800A4F43B /* ScreenShot.png */; };
 		939267C6249092A900D06461 /* AudioPlayerManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93233E4B2480B02800EE7C60 /* AudioPlayerManager.swift */; };
+		9395DD202495BF8600504BA2 /* MusicWithColor.gif in Resources */ = {isa = PBXBuildFile; fileRef = 9395DD1F2495BF8600504BA2 /* MusicWithColor.gif */; };
 		93C447542486EE66001FFE65 /* Ext-Notification.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93C447532486EE66001FFE65 /* Ext-Notification.swift */; };
 /* End PBXBuildFile section */
 
@@ -37,6 +38,7 @@
 		932382C72491984100A4F43B /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		932382C92491BD4F00A4F43B /* ColorImages.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ColorImages.png; sourceTree = "<group>"; };
 		932382CB2491C5D800A4F43B /* ScreenShot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ScreenShot.png; sourceTree = "<group>"; };
+		9395DD1F2495BF8600504BA2 /* MusicWithColor.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = MusicWithColor.gif; sourceTree = "<group>"; };
 		93C447532486EE66001FFE65 /* Ext-Notification.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Ext-Notification.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -114,6 +116,7 @@
 			isa = PBXGroup;
 			children = (
 				932382CB2491C5D800A4F43B /* ScreenShot.png */,
+				9395DD1F2495BF8600504BA2 /* MusicWithColor.gif */,
 				932382C92491BD4F00A4F43B /* ColorImages.png */,
 			);
 			path = "GitHub-Images";
@@ -201,6 +204,7 @@
 				932382C82491984100A4F43B /* README.md in Resources */,
 				93233E3D2480AFAF00EE7C60 /* Main.storyboard in Resources */,
 				93233E522480CF1A00EE7C60 /* wallpaper.mp3 in Resources */,
+				9395DD202495BF8600504BA2 /* MusicWithColor.gif in Resources */,
 				932382CC2491C5D800A4F43B /* ScreenShot.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
