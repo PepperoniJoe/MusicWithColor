@@ -15,7 +15,8 @@ License: http://creativecommons.org/licenses/by/4.0/
 <img src="GitHub-Images/ColorImages.png" width="500">
 
 **Technical Info:** \
-Xcode 11 project written in Swift 5 for iOS
+Xcode 11 project written in Swift 5 for iOS\
+Notification Center, Timer, AVAudioPlayer, CAGradientLayerTypes, Randomization
 
 **See Also:** \
 [Quickies - a variety of example iOS apps](https://github.com/PepperoniJoe/Quickies)\
